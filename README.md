@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Aline</h1>
-<h3 align="left">A passionate software engineer living in Italy atm.</h3>
+<h2 align="left">Hi 👋, I'm Aline</h2>
+<h3 align="left">A passionate software engineer.</h3>
 
 - 🔭 I’m currently a Core Contributor at [Cheshire Cat AI](https://github.com/cheshire-cat-ai)
 

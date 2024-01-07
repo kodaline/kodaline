@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://it.linkedin.com/in/adelina-georgieva](https://it.linkedin.com/in/adelina-georgieva)
 
-- 📝 Find my random articles on [https://dueacaso.it/posts/](https://dueacaso.it/posts/)
+- 📝 Find my random articles on [https://dueacaso.it/posts/](https://dueacaso.it/tech/)
 
 <h3 align="left">Get in touch:</h3>
 <a href="https://www.linkedin.com/in/adelina-georgieva/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>

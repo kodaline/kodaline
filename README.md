@@ -1,8 +1,6 @@
 <h2 align="left">Hi ฅ/ᐠ. ̫ .ᐟ\ฅ, Aline here!</h2>
 <h3 align="left">A software engineer and happy Linux user.</h3>
 
-- 🔭 I am currently a Core Contributor at [Cheshire Cat AI](https://github.com/cheshire-cat-ai)
-
 - 👯 I work as Software Engineer at [Userbot](https://userbot.ai)
 
 - 👨‍💻 All of my projects are available at [https://it.linkedin.com/in/adelina-georgieva](https://it.linkedin.com/in/adelina-georgieva)

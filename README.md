@@ -1,5 +1,5 @@
 <h2 align="left">Hi ฅ/ᐠ. ̫ .ᐟ\ฅ, Aline here!</h2>
-<h3 align="left">A software engineer and happy Linux user.</h3>
+<h3 align="left">Software engineer and happy Linux user.</h3>
 
 - 👯 I work as Software Engineer at [Userbot](https://userbot.ai)
 

@@ -3,6 +3,8 @@
 
 - 👯 I work as Software Engineer at [Userbot](https://userbot.ai)
 
+- 🐈 I am a Core Contributor at [Cheshire Cat AI](https://cheshirecat.ai)
+
 - 👨‍💻 All of my projects are available at [https://it.linkedin.com/in/adelina-georgieva](https://it.linkedin.com/in/adelina-georgieva)
 
 - 📝 Find my random articles on [https://dueacaso.it/tech/](https://dueacaso.it/tech/)
